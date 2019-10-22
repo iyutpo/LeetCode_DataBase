@@ -1,4 +1,5 @@
 # Table of contents
 
-* [First page](README.md)
+* [Leetcode Database](README.md)
+* [Leetcode 612. Shortest Distance in a Plane](leetcode-612.-shortest-distance-in-a-plane.md)
 
