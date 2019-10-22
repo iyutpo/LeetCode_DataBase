@@ -1,16 +1,4 @@
-# Summary
-* [前言](README.md)
+# Table of contents
 
-## 这里将讲述Leetcode上Database的相关题目
+* [Initial page](README.md)
 
-#### Leetcode 612. Shortest Distance in a Plane
-* 题：表"point_2d"中有两列"x"和"y"，分别表示一个点的横纵坐标，该表中每个点的坐标（一对）都是唯一的。
----------
-| x | y |
-----|----
-|-1 |-1 |
-| 0 | 0 |
-|-1 |-2 |
----------
-* 问：如何找到表中所有点之间的最小距离？（保留两位小数）
-* 例子：上表中，最短距离是1.00。因为点(-1, -1)和(-1, -2)的距离为 $$\sqrt{x_1^2 - x_2^2}$$
